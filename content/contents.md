@@ -47,3 +47,7 @@
   - 6.1 Windoze      [ ]
   - 6.2 Cloud        [ ]
     - 6.2.1 Heroku [X]
+7. Scripting stuff
+  - 7.0 Bash    [-]
+  - 7.1 Batch      [ ]
+  - 7.2 Powershell [X]
