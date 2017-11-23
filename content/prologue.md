@@ -4,9 +4,8 @@ Every journey begins with a single step, but
 
 _Abandon all hope, ye who enter here_
 
-![Some fancy logo](img/ditrigonal_icosidodecahedron.png)
-
 0. Programming languages
+  - 0.1.
 1. The Web
 2. SQL and NoSQL
 3. Non programming languages

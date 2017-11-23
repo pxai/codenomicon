@@ -14,4 +14,7 @@ pandoc --template=${TEMPL}plantilla-kdp.latex \
     -V documentclass=book\
     -S --latex-engine=xelatex  \
     -o ${DIST}codenomicon.pdf  \
-    ${TEXT}prologue.md ${TEXT}00/*.md ${TEXT}01/*.md --toc
+    ${TEXT}prologue.md \
+    ${TEXT}00.languages/*.md \
+    ${TEXT}01/*.md \
+    --toc
