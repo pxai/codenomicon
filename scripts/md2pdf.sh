@@ -16,5 +16,7 @@ pandoc --template=${TEMPL}plantilla-kdp.latex \
     -o ${DIST}codenomicon.pdf  \
     ${TEXT}prologue.md \
     ${TEXT}00.languages/*.md \
-    ${TEXT}01/*.md \
-    --toc
+    ${TEXT}01.web/*.md \
+    ${TEXT}02.sqlnosql/*.md \
+    ${TEXT}04.nonprogramminglang/*.md \
+            --toc
