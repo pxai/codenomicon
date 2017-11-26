@@ -17,6 +17,10 @@ pandoc --template=${TEMPL}plantilla-kdp.latex \
     ${TEXT}prologue.md \
     ${TEXT}00.languages/*.md \
     ${TEXT}01.web/*.md \
-    ${TEXT}02.sqlnosql/*.md \
+    ${TEXT}02.testing/*.md \
+    ${TEXT}03.sqlnosql/*.md \
     ${TEXT}04.nonprogramminglang/*.md \
+    ${TEXT}05.tulebox/*.md \
+    ${TEXT}06.sysadmin/*.md \
+    ${TEXT}07.scripting/*.md \
             --toc
