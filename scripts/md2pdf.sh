@@ -9,6 +9,7 @@ DIST=../dist/
 
 #FILES=${TEXT}prologue.md ${TEXT}level1.md ${TEXT}level7.md
 pandoc --template=${TEMPL}plantilla-kdp.latex \
+    --columns=70  \
     -V language=spanish -V lang=spanish \
     -V author='Pello Xabier Altadill Izura' -V title='Codenomicon'\
     -V documentclass=book\

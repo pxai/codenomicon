@@ -10,7 +10,7 @@
   - 0.5 Ruby    [ ]
   - 0.6 C#    [ ]
   - 0.7 Old School JavaScript    [ ]
-  - 0.8 ECMAScript
+  - 0.8 ECMAScript    [ ]
   - 0.9 TypeScript    [ ]
 1. The Web
   - 1.0 HTML    [ ]
