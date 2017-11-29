@@ -45,8 +45,5 @@
 6. Sysadmin stuff
   - 6.0 Unix-like    [ ]
   - 6.1 Windoze      [ ]
-  - 6.2 Cloud
-7. Scripts
- - 7.0 bash          [ ]
- - 7.1 batch         [ ]
- - 7.2 powershell    [ ]
+  - 6.2 Cloud        [ ]
+    - 6.2.1 Heroku [X]
