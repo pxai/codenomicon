@@ -5,7 +5,7 @@ Every journey begins with a single step, but
 _Abandon all hope, ye who enter here_
 
 ## Fly you fool
-¿So, you want to start a career as a programmer? Are you sure? You are in time to step back before it’s too late.Upon you lies a twisted path with traps and obstacles along the way, apparently light but dark and full of terrors as a night without the moon.
+So, you want to start a career as a programmer? Are you sure? You are in time to step back before it’s too late.Upon you lies a twisted path with traps and obstacles along the way, apparently light but dark and full of terrors as a night without the moon.
 There are many ways through the labyrinth for you to choose. What about the way of the enterprise programmer? Databases, infinite forms, input validation, formatted output and absolute boredom. There is also the web ecosystem, the nightmarish ever-evolving frontend and the shape-shifting backend that creeps from a hard disk to containers or even to the serverless no-man-land. Or why not to try the mobile development, the ultimate mutating unnamable terror that lurks in everyone hands, mesmerizing their owners with neverending notifications.
 Other corridors await behind new doors that came out of nowhere: iot, wearables, big-data, deep learning, blockchain, you name it. Coders may not be aware, but they’ve achieved their ultimate goal: to take over the world. Sounds pretentious? Just think a little bit, and imagine how many of your day by day routines are transferring data up and down, through systems that some programmer has created.
 

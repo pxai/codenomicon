@@ -9,7 +9,7 @@
   - 0.4 PHP     [ ]
   - 0.5 Ruby    [ ]
   - 0.6 C#      [ ]
-  - 0.7 OldSchool JS  [ ]
+  - 0.7 OldSchool JS  [X]
   - 0.8 ECMAScript    [ ]
   - 0.9 TypeScript    [ ]
 1. The Web
