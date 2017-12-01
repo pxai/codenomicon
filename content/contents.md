@@ -34,13 +34,13 @@
   - 4.1 JSON    [ ]
   - 4.2 YAML    [ ]
   - 4.3 XML     [ ]
-    - 4.3.0 XML    [ ]
-    - 4.3.1 DTD    [ ]
+    - 4.3.0 XML    [X]
+    - 4.3.1 DTD    [X]
     - 4.3.2 XSD    [ ]
 5. Tulebox
  - 5.0 Git     [ ]
  - 5.1 Docker  [ ]
- - 5.2 Grunt   [ ]
+ - 5.2 Grunt   [X]
  - 5.3 Gulp    [ ]
 6. Sysadmin stuff
   - 6.0 Unix-like    [ ]
