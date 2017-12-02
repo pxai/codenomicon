@@ -41,7 +41,7 @@
  - 5.0 Git     [ ]
  - 5.1 Docker  [ ]
  - 5.2 Grunt   [X]
- - 5.3 Gulp    [ ]
+ - 5.3 Gulp    [X]
 6. Sysadmin stuff
   - 6.0 Unix-like    [ ]
   - 6.1 Windoze      [ ]
