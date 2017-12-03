@@ -14,8 +14,8 @@
   - 0.9 TypeScript    [ ]
 1. The Web
   - 1.0 HTML       [ ]
-  - 1.2 Flexbox    [ ]
   - 1.1 CSS        [ ]
+  - 1.2 Flexbox    [ ]
   - 1.3 Bootstrap  [ ]
 2. Testing
     - 1.0 Protractor    [X]
