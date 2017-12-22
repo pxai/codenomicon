@@ -42,8 +42,9 @@
  - 5.1 Docker  [ ]
  - 5.2 Grunt   [X]
  - 5.3 Gulp    [X]
+ - 5.4 Webpack [ ]
 6. Sysadmin stuff
-  - 6.0 Unix-like    [ ]
+  - 6.0 Unix-like    [-]
   - 6.1 Windoze      [ ]
   - 6.2 Cloud        [ ]
     - 6.2.1 Heroku [X]
