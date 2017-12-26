@@ -1,7 +1,5 @@
 #!/bin/bash
-
 # run from the content
-
 TEXT=
 TEMPL=../scripts/
 DIST=../dist/
