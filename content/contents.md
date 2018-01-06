@@ -32,7 +32,7 @@
 4. Non programming languages
   - 4.0 MD      [X]
   - 4.1 JSON    [ ]
-  - 4.2 YAML    [ ]
+  - 4.2 YAML    [X]
   - 4.3 XML     [ ]
     - 4.3.0 XML    [X]
     - 4.3.1 DTD    [X]
